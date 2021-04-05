@@ -12,6 +12,7 @@ Currently, SDE @ Twitch on Developer Experience.
 - TypeScript
 - Go
 - React
+- AWS
 - Ruby on Rails
 - JavaScript
 - Python/Django
