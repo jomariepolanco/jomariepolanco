@@ -6,7 +6,7 @@ I'm a full stack software developer with over 4 years of sales and recruitment e
 
 --------
 
-Currently, SDE @ Twitch on Developer Experience.
+Currently, SDE @ Twitch.
 
 ## Languages and Tools:
 - TypeScript
