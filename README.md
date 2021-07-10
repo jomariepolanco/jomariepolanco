@@ -9,12 +9,13 @@ I'm a full stack software developer with over 4 years of sales and recruitment e
 Currently, SDE @ Twitch.
 
 ## Languages and Tools:
-- TypeScript
 - Go
+- GraphQL
+- TypeScript
 - React
 - AWS
-- Ruby on Rails
 - JavaScript
+- Ruby/Rails
 - Python/Django
 
 <!---
